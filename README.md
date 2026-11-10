@@ -1,1 +1,2 @@
-# RNA-e-Deep-Learning---CESAR-School-2026.01-A
+# Nome: Leonardo Medeiros
+# Email: lmf@cesar.school
